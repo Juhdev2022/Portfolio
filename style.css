@@ -667,6 +667,14 @@ main .sobre{
     color: #707070;
 }
 
+.projects_storage ul li a {
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
 @keyframes animationImageButton{
     0%{
         opacity: 0;
